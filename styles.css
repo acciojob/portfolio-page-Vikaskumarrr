@@ -1,2 +1,50 @@
 
 /* Your CSS Code here. */
+*{
+	margin: 0px;
+	padding: 0px;
+	font-family: 'Georgia' ,serif;
+}
+
+#image{
+	border-radius: 50px;
+	margin-left:420px;
+	margin-top: 20px;
+	background-color: blue;
+}
+#name{
+	margin-top: 0px;
+	margin-left:445px;
+	
+}
+
+#link{
+	font-size: 20px;
+	background-color: black;
+	color: white;
+	
+}
+
+#skills{
+	margin-top: 20px;
+	font-size: 30px;
+	margin-left:0px;
+	background-color: red;
+}
+#skill{
+	margin: 20px;
+
+	
+}
+#projects{
+	background-color:red;
+}
+#blink{
+	font-size:20px;
+	margin:20px;
+}
+
+ #pizza{
+	font-size:20px;
+	margin:20px;
+}
